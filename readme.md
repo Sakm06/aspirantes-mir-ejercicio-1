@@ -9,3 +9,4 @@ git status
 git log
 cd
 ls
+git push
